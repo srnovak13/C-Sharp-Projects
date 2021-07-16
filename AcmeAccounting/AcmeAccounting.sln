@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeAccounting", "AcmeAccounting\AcmeAccounting.csproj", "{4130A5B8-B983-463C-ADD1-2AF9265754AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4130A5B8-B983-463C-ADD1-2AF9265754AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4130A5B8-B983-463C-ADD1-2AF9265754AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4130A5B8-B983-463C-ADD1-2AF9265754AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4130A5B8-B983-463C-ADD1-2AF9265754AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B692361-34E6-42DD-9C80-E49F5FA849A3}
+	EndGlobalSection
+EndGlobal

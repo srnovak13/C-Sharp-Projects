@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe.config
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.pdb
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.exe
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.pdb

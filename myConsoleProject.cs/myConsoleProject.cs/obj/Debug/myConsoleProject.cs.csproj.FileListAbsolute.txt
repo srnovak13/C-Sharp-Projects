@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb

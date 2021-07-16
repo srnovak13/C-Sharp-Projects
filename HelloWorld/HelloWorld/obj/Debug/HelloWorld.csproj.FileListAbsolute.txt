@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\srnov\Git Repositories\Basic-C#-Programs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
