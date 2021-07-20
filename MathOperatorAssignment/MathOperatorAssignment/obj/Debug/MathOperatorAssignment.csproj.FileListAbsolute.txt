@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MathOperatorAssignment\MathOperatorAssignment\bin\Debug\MathOperatorAssignment.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MathOperatorAssignment\MathOperatorAssignment\bin\Debug\MathOperatorAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MathOperatorAssignment\MathOperatorAssignment\bin\Debug\MathOperatorAssignment.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MathOperatorAssignment\MathOperatorAssignment\obj\Debug\MathOperatorAssignment.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MathOperatorAssignment\MathOperatorAssignment\obj\Debug\MathOperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MathOperatorAssignment\MathOperatorAssignment\obj\Debug\MathOperatorAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MathOperatorAssignment\MathOperatorAssignment\obj\Debug\MathOperatorAssignment.pdb
