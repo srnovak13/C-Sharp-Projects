@@ -34,8 +34,8 @@ namespace Anonymous_Income_Comparison
             double person2HoursWorked = Convert.ToDouble(person2Hours);
 
             //do math operations for display
-            double person1Salary = person1HourlyRate * person1HoursWorked;
-            double person2Salary = person2HourlyRate * person2HoursWorked;
+            double person1Salary = person1HourlyRate * person1HoursWorked * 52;
+            double person2Salary = person2HourlyRate * person2HoursWorked * 52;
             bool salaryComparison = person1Salary > person2Salary;
 
             //write results to console
