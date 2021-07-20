@@ -1,0 +1,6 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Car_Insurance_Program\Car_Insurance_Program\bin\Debug\Car_Insurance_Program.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Car_Insurance_Program\Car_Insurance_Program\bin\Debug\Car_Insurance_Program.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Car_Insurance_Program\Car_Insurance_Program\bin\Debug\Car_Insurance_Program.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Car_Insurance_Program\Car_Insurance_Program\obj\Debug\Car_Insurance_Program.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Car_Insurance_Program\Car_Insurance_Program\obj\Debug\Car_Insurance_Program.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Car_Insurance_Program\Car_Insurance_Program\obj\Debug\Car_Insurance_Program.pdb
