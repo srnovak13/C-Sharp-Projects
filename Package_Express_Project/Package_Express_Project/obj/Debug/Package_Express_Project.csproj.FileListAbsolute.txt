@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Package_Express_Project\Package_Express_Project\bin\Debug\Package_Express_Project.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Package_Express_Project\Package_Express_Project\bin\Debug\Package_Express_Project.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Package_Express_Project\Package_Express_Project\bin\Debug\Package_Express_Project.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Package_Express_Project\Package_Express_Project\obj\Debug\Package_Express_Project.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Package_Express_Project\Package_Express_Project\obj\Debug\Package_Express_Project.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Package_Express_Project\Package_Express_Project\obj\Debug\Package_Express_Project.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Package_Express_Project\Package_Express_Project\obj\Debug\Package_Express_Project.pdb
