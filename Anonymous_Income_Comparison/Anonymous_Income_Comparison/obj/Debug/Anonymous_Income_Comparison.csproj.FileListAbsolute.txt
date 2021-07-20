@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.pdb
