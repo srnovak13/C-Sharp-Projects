@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\While_Project\While_Project\bin\Debug\While_Project.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\While_Project\While_Project\bin\Debug\While_Project.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\While_Project\While_Project\bin\Debug\While_Project.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\While_Project\While_Project\obj\Debug\While_Project.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\While_Project\While_Project\obj\Debug\While_Project.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\While_Project\While_Project\obj\Debug\While_Project.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\While_Project\While_Project\obj\Debug\While_Project.pdb
