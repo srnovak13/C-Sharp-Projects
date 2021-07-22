@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Array_Assignment\Array_Assignment\bin\Debug\Array_Assignment.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Array_Assignment\Array_Assignment\bin\Debug\Array_Assignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Array_Assignment\Array_Assignment\bin\Debug\Array_Assignment.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.pdb
