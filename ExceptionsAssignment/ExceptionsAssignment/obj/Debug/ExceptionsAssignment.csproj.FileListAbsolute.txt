@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\ExceptionsAssignment\ExceptionsAssignment\bin\Debug\ExceptionsAssignment.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\ExceptionsAssignment\ExceptionsAssignment\bin\Debug\ExceptionsAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\ExceptionsAssignment\ExceptionsAssignment\bin\Debug\ExceptionsAssignment.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.pdb
