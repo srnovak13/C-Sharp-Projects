@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.pdb

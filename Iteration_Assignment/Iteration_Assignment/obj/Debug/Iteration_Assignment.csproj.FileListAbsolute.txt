@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iteration_Assignment\Iteration_Assignment\bin\Debug\Iteration_Assignment.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iteration_Assignment\Iteration_Assignment\bin\Debug\Iteration_Assignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iteration_Assignment\Iteration_Assignment\bin\Debug\Iteration_Assignment.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iteration_Assignment\Iteration_Assignment\obj\Debug\Iteration_Assignment.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iteration_Assignment\Iteration_Assignment\obj\Debug\Iteration_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iteration_Assignment\Iteration_Assignment\obj\Debug\Iteration_Assignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\Iteration_Assignment\Iteration_Assignment\obj\Debug\Iteration_Assignment.pdb
