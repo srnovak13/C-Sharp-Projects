@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MethodsAssignment\MethodsAssignment\bin\Debug\MethodsAssignment.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MethodsAssignment\MethodsAssignment\bin\Debug\MethodsAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MethodsAssignment\MethodsAssignment\bin\Debug\MethodsAssignment.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.pdb

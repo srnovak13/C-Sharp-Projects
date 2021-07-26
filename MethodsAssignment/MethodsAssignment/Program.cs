@@ -22,9 +22,9 @@ namespace MethodsAssignment
 
             //print to console
             Console.WriteLine(
-                "Squared: " + square +
-                "Doubled: " + doubled +
-                "Halved: " + half
+                "Squared: " + square + 
+                "\nDoubled: " + doubled +
+                "\nHalved: " + half
                 );
             Console.ReadLine();
 
