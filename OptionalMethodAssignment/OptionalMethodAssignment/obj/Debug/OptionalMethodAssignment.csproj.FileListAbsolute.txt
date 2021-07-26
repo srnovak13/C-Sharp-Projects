@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\OptionalMethodAssignment\OptionalMethodAssignment\bin\Debug\OptionalMethodAssignment.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\OptionalMethodAssignment\OptionalMethodAssignment\bin\Debug\OptionalMethodAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\OptionalMethodAssignment\OptionalMethodAssignment\bin\Debug\OptionalMethodAssignment.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.pdb
