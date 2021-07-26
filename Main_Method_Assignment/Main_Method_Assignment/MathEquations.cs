@@ -15,7 +15,7 @@ namespace Main_Method_Assignment
         }
 
         //second method takes double, returns double to power of 3, divided by 2
-        public double PowerThree(double num)
+        public decimal PowerThree(decimal num)
         {
             return (num * num * num) / 2;
         }

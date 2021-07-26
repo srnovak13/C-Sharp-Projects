@@ -15,7 +15,7 @@ namespace Main_Method_Assignment
 
             //using three methods from MathEquations class
             int powerOfThree = doMath.PowerThree(3);
-            double decimalMath = doMath.PowerThree(3.14);
+            decimal decimalMath = doMath.PowerThree(3.14m);
             int stringConvert = doMath.PowerThree("5");
 
             //print out to console
