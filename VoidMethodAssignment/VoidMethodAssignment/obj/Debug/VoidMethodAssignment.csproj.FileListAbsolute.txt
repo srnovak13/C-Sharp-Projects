@@ -1,0 +1,7 @@
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\VoidMethodAssignment.exe.config
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\VoidMethodAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\VoidMethodAssignment.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.csprojAssemblyReference.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.exe
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.pdb
