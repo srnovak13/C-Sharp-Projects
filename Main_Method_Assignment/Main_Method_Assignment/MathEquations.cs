@@ -15,9 +15,9 @@ namespace Main_Method_Assignment
         }
 
         //second method takes double, returns double to power of 3, divided by 2
-        public decimal PowerThree(decimal num)
+        public int PowerThree(decimal numDec)
         {
-            
+            int num = Convert.ToInt32(numDec);
             return (num * num * num) / 2;
         }
 
