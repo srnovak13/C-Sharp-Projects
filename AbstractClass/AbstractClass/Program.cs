@@ -10,12 +10,17 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Employee Test = new Employee() { FirstName = "Sample", LastName = "Student" };
-            Test.SayName();
+            Employee first = new Employee() { FirstName = "Steve", LastName = "Novak", ID = 112580 };
+            Employee second = new Employee() { FirstName = "Steve", LastName = "Novak", ID = 92757 };
+            Console.WriteLine(first == second);
+            Console.WriteLine(first != second);
             Console.ReadLine();
+            //Employee Test = new Employee() { FirstName = "Sample", LastName = "Student" };
+            //Test.SayName();
+            //Console.ReadLine();
 
-            IQuittable IQuit = new Employee() { FirstName = "Norman", LastName = "Bates" };
-            IQuit.Quit();
+            //IQuittable IQuit = new Employee() { FirstName = "Norman", LastName = "Bates" };
+            //IQuit.Quit();
         }
 
         
