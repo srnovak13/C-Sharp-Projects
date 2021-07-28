@@ -13,6 +13,12 @@ namespace AbstractClass
             Employee Test = new Employee() { FirstName = "Sample", LastName = "Student" };
             Test.SayName();
             Console.ReadLine();
+
+            IQuittable IQuit = new Employee() { FirstName = "Norman", LastName = "Bates" };
+            IQuit.Quit();
         }
+
+        
+
     }
 }

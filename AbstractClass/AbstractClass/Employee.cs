@@ -6,11 +6,21 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public override void SayName()
         {
             Console.WriteLine($"{FirstName} {LastName}");
+        }
+
+        public void Quit()
+        {
+            Console.WriteLine("Do you want to quit? Y or N");
+            string response = Console.ReadLine().ToLower();
+            if (response == "y")
+            {
+                Console.WriteLine("Thank you for your time!");
+            }
         }
        
     }

@@ -4,3 +4,4 @@ C:\Users\srnov\Git Repositories\C-Sharp-Projects\AbstractClass\AbstractClass\bin
 C:\Users\srnov\Git Repositories\C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
 C:\Users\srnov\Git Repositories\C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
 C:\Users\srnov\Git Repositories\C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
+C:\Users\srnov\Git Repositories\C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
