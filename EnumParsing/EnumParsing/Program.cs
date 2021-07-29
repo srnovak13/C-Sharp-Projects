@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace EnumParsing
 {
-    interface IWalkAway
+    class Program
     {
-         void WalkAway(Player player);
+        static void Main(string[] args)
+        {
+        }
     }
 }
