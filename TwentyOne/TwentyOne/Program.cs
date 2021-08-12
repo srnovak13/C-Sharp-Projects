@@ -1,6 +1,10 @@
-﻿using Casino;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Casino;
 using Casino.TwentyOne;
-using System;
 
 namespace TwentyOne
 {
@@ -31,12 +35,8 @@ namespace TwentyOne
             Console.Read();
 
 
-           
-        }
 
-
-
+        
+         }
     }
-
-    
 }

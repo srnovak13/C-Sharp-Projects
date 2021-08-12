@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AB68DCFF-0759-4616-94F6-28785D2FED03}</ProjectGuid>
+    <ProjectGuid>{1700A7B7-7DED-40B5-B1A7-AB09590119B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>TwentyOne</RootNamespace>
     <AssemblyName>TwentyOne</AssemblyName>
@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Casino">
-      <HintPath>..\Casino\bin\Debug\netcoreapp3.1\Casino.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Casino\Casino.csproj">
+      <Project>{f656f37c-3ef8-4628-b21b-869b48633060}</Project>
+      <Name>Casino</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
