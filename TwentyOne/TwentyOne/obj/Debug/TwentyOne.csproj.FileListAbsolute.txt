@@ -8,3 +8,13 @@ C:\Users\Steve\Desktop\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompil
 C:\Users\Steve\Desktop\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
 C:\Users\Steve\Desktop\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Steve\Desktop\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Steve\GitRepositories\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
