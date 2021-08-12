@@ -26,7 +26,7 @@ namespace TwentyOne
             {
                 Player player = new Player(playerName, bank);
                 player.Id = Guid.NewGuid();
-                using (StreamWriter file = new StreamWriter(@"C: \Users\Steve\Logs\log.txt", true))
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Steve\Logs\log.txt", true))
                 {
                     file.WriteLine(player.Id);
                     
